@@ -5,7 +5,7 @@
 
 Name: %{php}-pecl-%{pecl_name}
 Version: 1.0.3.1
-Release: 2.ius%{?dist}
+Release: 3.ius%{?dist}
 Summary: An extension to track progress of a file upload
 Group: Development/Libraries
 License: PHP
